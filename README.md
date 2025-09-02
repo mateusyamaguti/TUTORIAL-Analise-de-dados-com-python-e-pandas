@@ -8,12 +8,13 @@ O repositório criado por Mateus Yamaguti com base o livro **Análise de dados c
 
 ### Tecnologias
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ### Capítulos 
 
-- Capítulo 1: 
+- Capítulo 1: Básico sobre o DataFrame do Pandas
 
 ## Descrição do projeto 
 
