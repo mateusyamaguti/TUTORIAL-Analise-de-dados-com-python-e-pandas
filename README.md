@@ -8,8 +8,14 @@ O repositório criado por Mateus Yamaguti com base o livro **Análise de dados c
 
 ### Tecnologias
 
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+- ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas)
+- ![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Computing-013243?logo=numpy)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=plotly)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-Stats%20Plots-17BEBB?logo=python)
+- ![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistics-orange)
+- ![scikit--learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
 
 ### Capítulos 
